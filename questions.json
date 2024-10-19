@@ -1,0 +1,214 @@
+{
+  "heading": "Homophones",
+  "topics": [
+    {
+      "heading": "Homophones",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word completes the sentence?<br> The cat caught a _____ in the garden.",
+          "options": [
+            { "text": "mouse" },
+            { "text": "mousse" }
+          ],
+          "answer": 0,
+          "explanation": "A 'mouse' is a small animal. A 'mousse' is a light, fluffy dessert."
+        },
+        {
+          "questionNo": 2,
+          "question": "Pick the right word:<br> The baby likes to _____ with colourful toys.",
+          "options": [
+            { "text": "play" },
+            { "text": "plae" }
+          ],
+          "answer": 0,
+          "explanation": "'Play' means to have fun or enjoy oneself and 'plae' is not a real word."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which homophone fits?<br> I can _____ the sweet smell of flowers.",
+          "options": [
+            { "text": "sent" },
+            { "text": "cent" },
+            { "text": "scent" }
+          ],
+          "answer": 2,
+          "explanation": "'Scent' means a smell. 'Sent' means delivered and a 'cent' is a coin."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which word matches the picture?  <br><img src='./assests/images/json/4.png' width='150px'/>",
+          "options": [
+            { "text": "Through" },
+            { "text": "Threw" }
+          ],
+          "answer": 1,
+          "explanation": "'Threw' is the past tense of throw. You can throw a ball into the air. 'Through' means in one end and out the other. You can jump through a hoop. The word 'threw' matches the picture."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word matches the picture?  <br><img src='./assests/images/json/5.png' width='150px'/>",
+          "options": [
+            { "text": "Won" },
+            { "text": "One" }
+          ],
+          "answer": 0,
+          "explanation": "'Won' is the past tense of 'win,' which means to be the best, first or strongest in a race, game, competition, etc. 'One' is a number."
+        },
+        {
+          "questionNo": 6,
+          "question": "Select the right homophone:<br> Can you _____ the door, please?",
+          "options": [
+            { "text": "close" },
+            { "text": "claws" }
+          ],
+          "answer": 0,
+          "explanation": "To 'close' means to shut and 'claws' are sharp nails on animals."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word fits?<br> We watched the _____ set over the ocean.",
+          "options": [
+            { "text": "son" },
+            { "text": "sun" }
+          ],
+          "answer": 1,
+          "explanation": "The 'sun' is the bright star that gives us light during the day. A 'son' is a male child."
+        },
+        {
+          "questionNo": 8,
+          "question": "Pick the right word:<br> I need a new _____ for my bicycle.",
+          "options": [
+            { "text": "wheel" },
+            { "text": "weel" },
+            { "text": "we'll" },
+            { "text": "wheal" }
+          ],
+          "answer": 0,
+          "explanation": "A 'wheel' is a round object that turns to make vehicles move. 'Weel' is an old word meaning well, 'we'll' is short for 'we will,' and 'wheal' is a mark on the skin."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which homophone completes the sentence? <br>The mouse ran into its _____.",
+          "options": [
+            { "text": "whole" },
+            { "text": "hole" }
+          ],
+          "answer": 1,
+          "explanation": "A 'hole' is an opening or an empty space. 'Whole' means complete."
+        },
+        {
+          "questionNo": 10,
+          "question": "Choose the correct spelling:",
+          "options": [
+            { "text": "Character" },
+            { "text": "Caracter" },
+            { "text": "Charecter" }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is 'C-H-A-R-A-C-T-E-R.' It is the qualities that make somebody/something different from other people or things; the nature of somebody/something."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word means 'to look at something'?",
+          "options": [
+            { "text": "See" },
+            { "text": "Sea" }
+          ],
+          "answer": 0,
+          "explanation": "'See' means to look at something, while 'sea' refers to a large body of water."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word means the past tense of 'ride'?",
+          "options": [
+            { "text": "Road" },
+            { "text": "Rode" }
+          ],
+          "answer": 1,
+          "explanation": "'Rode' is the past tense of 'ride,' while 'road' is the path cars drive on."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which pair of homophones is correct?",
+          "options": [
+            { "text": "Eight / Ate" },
+            { "text": "Eight / Eat" }
+          ],
+          "answer": 0,
+          "explanation": "'Eight' is the number, and 'ate' is the past tense of eat. 'Eat' does not match 'eight.'"
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word means 'a small insect'?",
+          "options": [
+            { "text": "Ant" },
+            { "text": "Aunt" }
+          ],
+          "answer": 0,
+          "explanation": "'Ant' is a small insect, while 'aunt' is your parent's sister."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which word means 'not heavy'?",
+          "options": [
+            { "text": "Lite" },
+            { "text": "Light" }
+          ],
+          "answer": 1,
+          "explanation": "'Light' means something not heavy, while 'lite' is a shortened version often used in marketing."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word means 'to stop or slow down'?",
+          "options": [
+            { "text": "Break" },
+            { "text": "Brake" }
+          ],
+          "answer": 1,
+          "explanation": "'Brake' is used to slow down a vehicle, while 'break' means to separate or destroy something."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word is used to talk about a period of seven days?",
+          "options": [
+            { "text": "Weak" },
+            { "text": "Week" }
+          ],
+          "answer": 1,
+          "explanation": "'Week' refers to seven days, while 'weak' means not strong."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word means 'to allow something'?",
+          "options": [
+            { "text": "Aloud" },
+            { "text": "Allowed" }
+          ],
+          "answer": 1,
+          "explanation": "'Allowed' means to permit something, while 'aloud' means to speak out loud."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which word means 'a part of your face used for seeing'?",
+          "options": [
+            { "text": "I" },
+            { "text": "Eye" }
+          ],
+          "answer": 1,
+          "explanation": "'Eye' is a part of your face used for seeing, while 'I' is a pronoun used to refer to oneself."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word matches the picture? <br><img src='./assests/images/json/20.png' width='150px'/>",
+          "options": [
+            { "text": "Bare" },
+            { "text": "Bear" }
+          ],
+          "answer": 1,
+          "explanation": "The picture shows a large animal with fur and claws, which is a 'bear.' 'Bare' means without covering or naked, which does not match the animal in the picture."
+        }
+      ]
+    }
+  ]
+}
